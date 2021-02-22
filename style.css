@@ -1,0 +1,19 @@
+body {
+	background-color: #B2A4C9;
+	font-family: "calibri";
+	font-size: 20px;
+}
+p {
+	text-align: justify;
+}
+
+.cita {
+	text-align: center;
+	color: #EAF508;
+}
+h1 {
+	text-align: center;
+	color: #EAF508;
+	font-size: 40px;
+	font-family: "garamond";
+}
